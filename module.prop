@@ -1,6 +1,6 @@
-id=CloudflareDNS4Magisk
-name=CloudflareDNS4Magisk
-version=v2.7
-versionCode=27
+id=TBELBEKDns4Magisk
+name=TBELBEKDns4Magisk
+version=v0.1
+versionCode=1
 author=Rom
-description=Using the new Cloudflare DNS system-lessy! As simple as that.
+description=Using the new Tbelbek Pi-Hole DNS system-lessy!
